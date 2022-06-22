@@ -1,0 +1,103 @@
+.mandiv{
+    width: 1200px;
+    margin: auto;
+    border: 2px dotted red;
+    text-align: center;
+}
+.mandiv style{
+    background: #263036;
+    text-transform: capitalize;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 34px;
+  }
+  .header{
+    background-color: red;
+    padding: 5px;
+  }
+  h2{
+    background-color: green; 
+    padding: 5px;
+  }
+  h3{
+    background-color: yellow;
+    padding: 5px;
+  }
+  h4{
+    background-color: blue; 
+    padding: 5px;
+  }
+  h5{
+    background-color: orange;
+    padding: 5px;
+  }
+  h6{
+    background-color: chocolate;
+    padding: 5px;
+  }
+ 
+  p{
+    background-color: aqua;
+    padding: 5px;
+  }
+ 
+  
+  b{
+    background-color: red;
+  }
+  strong{
+    background-color: yellow;
+  } 
+  del{
+    background-color: blue;
+  }
+  i{
+    background-color: aqua;
+  }
+  span{
+    background-color: blueviolet;
+  } 
+  u{
+    background-color: aquamarine;
+  } 
+ 
+
+  /*footer*/
+  .footer {
+    background: #34495e;
+
+    height: 85px;
+
+    margin-top: 70px;
+    padding: 20px;
+  }
+  .menu ul {
+    list-style: none;} 
+
+    .menu ul li {
+      display: inline-block; 
+      
+    }
+  .menu ul li a {
+      text-decoration: none;
+      font-size: 23px;
+      color: white;
+      padding: 0 21px;
+      border: 1px solid white;
+      padding: 13px 37px;
+      line-height: 58px;
+      background-color: #2980b9;
+      transition: .4s;
+
+  }
+  .menu ul li:hover a{
+     text-decoration: none;
+      font-size: 23px;
+      color:  #2980b9;
+      padding: 0 21px;
+      border: 1px solid #f1c40f;
+      padding: 13px 37px;
+      line-height: 58px;
+      background-color:#f39c12;
+ 
+  }
